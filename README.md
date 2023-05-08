@@ -1,3 +1,3 @@
 # Practicas-Rasberry-Pico-W
 
-![](HelloWorld.png)
+![3.9 desplegar mensaje en OLED DISPLAY](HelloWorld.png)
